@@ -1,4 +1,4 @@
-Django==1.11.5
+Django==1.11.18
 django-forms-bootstrap==3.1.0
 mock==2.0.0
 olefile==0.44
