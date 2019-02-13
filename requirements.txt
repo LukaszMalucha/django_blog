@@ -1,9 +1,0 @@
-Django==1.11.18
-django-forms-bootstrap==3.1.0
-mock==2.0.0
-olefile==0.44
-pbr==3.1.1
-pep8==1.7.0
-Pillow==4.0.0
-pytz==2017.2
-six==1.10.0
